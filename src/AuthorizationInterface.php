@@ -1,8 +1,8 @@
 <?php
 
-namespace Jokuf\Authorization;
+namespace Jokuf\Contract\Authorization;
 
-use Jokuf\User\UserInterface;
+use Jokuf\Contract\User\UserInterface;
 
 interface AuthorizationInterface
 {

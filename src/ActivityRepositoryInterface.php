@@ -1,6 +1,6 @@
 <?php
 
-namespace Jokuf\Authorization;
+namespace Jokuf\Contract\Authorization;
 
 interface ActivityRepositoryInterface
 {
